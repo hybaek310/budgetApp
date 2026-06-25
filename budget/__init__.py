@@ -1,2 +1,1 @@
 """Budget app package."""
-
